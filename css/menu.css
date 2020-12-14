@@ -11,9 +11,7 @@ body {
     margin: 0;
     text-align: center;
     font-size: 30px;
-    collor: whitesmoke;
-    background-image: url(../afb/Kerstmenu.jpeg)
-    background-position: center;
+    color: white;
 }
 
 main {
